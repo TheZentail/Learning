@@ -1,0 +1,15 @@
+/Users/tannerplumb/Projects/Learning/Learning/bin/Debug/net7.0/Learning
+/Users/tannerplumb/Projects/Learning/Learning/bin/Debug/net7.0/Learning.deps.json
+/Users/tannerplumb/Projects/Learning/Learning/bin/Debug/net7.0/Learning.runtimeconfig.json
+/Users/tannerplumb/Projects/Learning/Learning/bin/Debug/net7.0/Learning.dll
+/Users/tannerplumb/Projects/Learning/Learning/bin/Debug/net7.0/Learning.pdb
+/Users/tannerplumb/Projects/Learning/Learning/obj/Debug/net7.0/Learning.csproj.AssemblyReference.cache
+/Users/tannerplumb/Projects/Learning/Learning/obj/Debug/net7.0/Learning.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tannerplumb/Projects/Learning/Learning/obj/Debug/net7.0/Learning.AssemblyInfoInputs.cache
+/Users/tannerplumb/Projects/Learning/Learning/obj/Debug/net7.0/Learning.AssemblyInfo.cs
+/Users/tannerplumb/Projects/Learning/Learning/obj/Debug/net7.0/Learning.csproj.CoreCompileInputs.cache
+/Users/tannerplumb/Projects/Learning/Learning/obj/Debug/net7.0/Learning.dll
+/Users/tannerplumb/Projects/Learning/Learning/obj/Debug/net7.0/refint/Learning.dll
+/Users/tannerplumb/Projects/Learning/Learning/obj/Debug/net7.0/Learning.pdb
+/Users/tannerplumb/Projects/Learning/Learning/obj/Debug/net7.0/Learning.genruntimeconfig.cache
+/Users/tannerplumb/Projects/Learning/Learning/obj/Debug/net7.0/ref/Learning.dll
