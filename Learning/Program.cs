@@ -7,7 +7,7 @@ void Main()
 {
     // Create a Player
     Player player = new() {
-        Name = "Player Name",
+        Name = "Sam Winchester",
         Money = 100
     };
 
@@ -34,16 +34,16 @@ void Main()
 }
 
 void DisplayStats(Entity e) {
-    Console.WriteLine("-----" + e.Name + "-----");
-    Console.WriteLine("Hunger: " + e.Hunger);
-    Console.WriteLine("Energy: " + e.Energy);
+    Console.WriteLine($"-----{e.Name}-----");
+    Console.WriteLine($"Hunger: {e.Hunger}");
+    Console.WriteLine($"Energy: {e.Energy}");
 
     if (e is Player) {
         Console.WriteLine("--Player Stats--");
-        Console.WriteLine("Money: " + ((Player)e).Money);
+        Console.WriteLine($"Money: {((Player)e).Money}");
     } else if (e is AI) {
         Console.WriteLine("--AI Stats--");
-        Console.WriteLine("Behaviour: " + ((AI)e).Behaviour);
+        Console.WriteLine($"Behaviour: {((AI)e).Behaviour}");
     }
 
     Console.WriteLine();

@@ -16,7 +16,7 @@ namespace Learning
         // virtual void functions are able to be left alone if desired, or can be overwritten in classes that inherit this class
         public virtual void ModifyHunger(int amount) { Hunger += amount; }
         public virtual void ModifyEnergy(int amount) { Energy += amount; }
-        public virtual void Speak(string message) { Console.WriteLine(Name + ": " + message); }
+        public virtual void Speak(string message) { Console.WriteLine($"{Name}: {message}"); }
 	}
 }
 

@@ -24,7 +24,7 @@ namespace Learning
         }
 
         // This overwrites the Speak function from Entity to instead say "You", as it's the player talking
-        public override void Speak(string message) { Console.WriteLine("You: " + message); }
+        public override void Speak(string message) { Console.WriteLine($"You: {message}"); }
     }
 }
 
